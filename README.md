@@ -1,2 +1,6 @@
-# A.I.
-Project for A.I. schoolwork
+# Projet N°1
+
+notre projet se compose de trois categorie : 
+
+## Presentation
+## Conclusion 
